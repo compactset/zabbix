@@ -150,6 +150,8 @@ Zabbix的问题整理
     ```
 		wget https://github.com/mattiasgeniar/MoZBX/zipball/master
 	```
+
+20. Zabbix如何采集SNMP table？
   
 
 
